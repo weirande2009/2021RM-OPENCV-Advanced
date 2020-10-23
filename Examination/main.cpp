@@ -52,6 +52,7 @@ long getCurrentTime()
     return tv.tv_sec * 1000 + tv.tv_usec / 1000;
 }
 
+
 /****************************************
 函数名：get_hsv_range
 功能：
